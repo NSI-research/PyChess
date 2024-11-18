@@ -48,3 +48,5 @@
 ## Contribuer
 
 Les contributions sont les bienvenues ! Si vous trouvez un bug ou souhaitez ajouter des fonctionnalités, n'hésitez pas à soumettre une pull request ou à ouvrir une issue.
+
+NB : Pour le moment il ne se passe rien si le roi est tué donc vous pouvez vous battre jusqu'au bout (feature ou bug, à vous de voir)
